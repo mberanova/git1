@@ -12,14 +12,14 @@
 1. The Bourne Identity (2002)
 
 ## Mission: Impossible
-1. Mission: Impossible, 1996
-1. Mission: Impossible 2, 2000
-1. Mission: Impossible III, 2006
-1. Mission: Impossible – Ghost Protocol, 2011
-1. Mission: Impossible – Rogue Nation, 2015
-1. Mission: Impossible – Fallout, 2018
+1. Mission: Impossible (1996)
+1. Mission: Impossible 2 (2000)
+1. Mission: Impossible III (2006)
+1. Mission: Impossible – Ghost Protocol (2011)
+1. Mission: Impossible – Rogue Nation (2015)
+1. Mission: Impossible – Fallout (2018)
 
 ## The Matrix
-1. 1999 The Matrix
-1. 2003 The Matrix Reloaded
-1. 2003 The Matrix Revolutions
+1. The Matrix (1999)
+1. The Matrix Reloaded (2003)
+1. The Matrix Revolutions (2003)
