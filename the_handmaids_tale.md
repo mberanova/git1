@@ -19,10 +19,3 @@
 1. Other Women
 1. Seeds
 1. First Blood
-1. Episode #2.7
-1. Episode #2.8
-1. Episode #2.9
-1. Episode #2.10
-1. Episode #2.11
-1. Episode #2.12
-1. Episode #2.13
