@@ -2,27 +2,27 @@
 
 ## Season 1
 1. The National Anthem
-2. Fifteen Million Merits
-3. The Entire History of You
+1. Fifteen Million Merits
+1. The Entire History of You
 
 ## Season 2
-* Be Right Back
-* White Bear
-* The Waldo Moment
-* White Christmas
+1. Be Right Back
+1. White Bear
+1. The Waldo Moment
+1. White Christmas
 
 ## Season 3
-* Nosedive
-* Playtest
-* Shut Up and Dance
-* San Junipero
-* Men Against Fire
-* Hated in the Nation
+1. Nosedive
+1. Playtest
+1. Shut Up and Dance
+1. San Junipero
+1. Men Against Fire
+1. Hated in the Nation
 
 ## Season 4
-* USS Callister
-* Arkangel
-* Crocodile
-* Hang the DJ
-* Metalhead
-* Black Museum
+1. USS Callister
+1. Arkangel
+1. Crocodile
+1. Hang the DJ
+1. Metalhead
+1. Black Museum
