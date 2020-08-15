@@ -1,6 +1,6 @@
 # Westworld Episodes
 
-## 01 The Maze
+## Season 1: The Maze
 * 01 The Original
 * 02 Chestnut
 * 03 The Stray
@@ -12,7 +12,7 @@
 * 09 The Well-Tempered Clavier
 * 10 The Bicameral Mind
 
-## 02 The Door
+## Season 2: The Door
 * 01 Journey into Night
 * 02 Reunion
 * 03 Virtù e Fortuna
