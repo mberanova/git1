@@ -1,15 +1,15 @@
 # Movie series
 
 ## 300
-- 300 (2007)
-- 300: Rise of an Empire (2014)
+1. 300 (2007)
+1. 300: Rise of an Empire (2014)
 
 ## Bourne
-* Jason Bourne (2016)
-* The Bourne Legacy (2012)
-* The Bourne Ultimatum (2007)
-* The Bourne Supremacy (2004)
-* The Bourne Identity (2002)
+1. Jason Bourne (2016)
+1. The Bourne Legacy (2012)
+1. The Bourne Ultimatum (2007)
+1. The Bourne Supremacy (2004)
+1. The Bourne Identity (2002)
 
 ## Mission: Impossible
 1. Mission: Impossible, 1996
@@ -20,6 +20,6 @@
 1. Mission: Impossible – Fallout, 2018
 
 ## The Matrix
-* 1999 The Matrix
-* 2003 The Matrix Reloaded
-* 2003 The Matrix Revolutions
+1. 1999 The Matrix
+1. 2003 The Matrix Reloaded
+1. 2003 The Matrix Revolutions
